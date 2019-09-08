@@ -1,4 +1,3 @@
-# b
 testb
 On dev Branch:
 Creating a new branch is quick and easy
